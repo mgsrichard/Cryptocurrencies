@@ -27,5 +27,5 @@ The purpose of this project is to design an unsupervised machine learning model 
 
 
 #### Contact Information
-Martha Richarson <br>
+Martha Richardson <br>
 mgsrichard@yahoo.com
