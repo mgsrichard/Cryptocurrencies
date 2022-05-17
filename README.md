@@ -23,3 +23,8 @@ The purpose of this project is to design an unsupervised machine learning model 
 ![3d scatter](https://github.com/mgsrichard/Cryptocurrencies/blob/main/images/3d_scatter.png)
 ### 2-D Scatter of Clusters by Coin Supply Vs. Coins Mined
 ![2d scatter](https://github.com/mgsrichard/Cryptocurrencies/blob/main/images/2d_scatter.png)
+
+
+#### Contact Information
+Martha Richarson <br>
+mgsrichard@yahoo.com
