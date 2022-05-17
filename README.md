@@ -17,10 +17,11 @@ The purpose of this project is to design an unsupervised machine learning model 
  ![KMeans](https://github.com/mgsrichard/Cryptocurrencies/blob/main/images/KMeans_Code.png)
  ## Visualizing Cryptocurrency Results
  In this step, we used graphs and tables to visualize the results of step 3. We created a 3D scatter plot which shows the 4 clusters of cryptocurrencies. We printed out a table containing a list of tradable cryptocurrencies, and stated how many there were. Finally, we reduced the data to a two dimensional scatter plot with Total Coins Mined on the x axis and Total Coin supply on the y axis to give us another way to see how the cryptocurrency clusters were organized.
- ### Table of Tradable Cryptocurrencies
-![Table](https://github.com/mgsrichard/Cryptocurrencies/blob/main/images/Tradable%20currencies.png)
+
 ### 3-D scatter of Clusters from K Means Analysis
 ![3d scatter](https://github.com/mgsrichard/Cryptocurrencies/blob/main/images/3d_scatter.png)
+### Table of Tradable Cryptocurrencies
+![Table](https://github.com/mgsrichard/Cryptocurrencies/blob/main/images/Tradable%20currencies.png)
 ### 2-D Scatter of Clusters by Coin Supply Vs. Coins Mined
 ![2d scatter](https://github.com/mgsrichard/Cryptocurrencies/blob/main/images/2d_scatter.png)
 
